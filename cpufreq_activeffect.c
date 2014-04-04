@@ -1,7 +1,7 @@
 /*
  *  linux/drivers/cpufreq/cpufreq_activeffect.c
  *
- *  Copyright (C) 2013 Lianwei Wang <lian-wei.wang@motorola.com>
+ *  Copyright (C) 2013 Lianwei Wang <lianwei.wang@gmail.com>
  *
  *
  * This program is free software; you can redistribute it and/or modify
@@ -909,7 +909,7 @@ static void __exit cpufreq_gov_activeffect_exit(void)
 }
 
 
-MODULE_AUTHOR("Lianwei Wang <lian-wei.wang@motorola.com>");
+MODULE_AUTHOR("Lianwei Wang <lianwei.wang@gmail.com>");
 MODULE_DESCRIPTION("CPUfreq policy governor 'activeffect'");
 MODULE_LICENSE("GPL");
 
